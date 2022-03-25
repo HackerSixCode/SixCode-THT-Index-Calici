@@ -1,5 +1,8 @@
-# Welcome to GitHub Desktop!
+TR: Bu program kullanılarak yapılabilecek herhangi bir saldırıda ben sorumlu değilim!
+EN: This for educational purposes only!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+EN: Coded By SixCode.
+All the code by me.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+TR: Bu program SixCode tarafından yapılmıştır.
+Bütün kodları benim tarafımdan yazılmıştır.
